@@ -1,0 +1,40 @@
+{
+  "name": "soar-icons",
+  "styles": [
+    "line",
+    "solid",
+    "remix",
+    "duo",
+    "flat"
+  ],
+  "defaultStyle": "line",
+  "icons": [
+    {
+      "name": "home",
+      "displayName": "Home",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        }
+      }
+    }
+  ],
+  "generatedAt": "2026-05-16T11:31:07.380Z"
+}

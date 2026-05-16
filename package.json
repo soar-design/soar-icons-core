@@ -1,0 +1,14 @@
+{
+  "name": "@soar-icons/core",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Soar Icons — raw SVGs + manifest, framework-agnostic",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./manifest.json": "./manifest.json",
+    "./icons/*": "./icons/*"
+  },
+  "files": ["icons", "manifest.json", "src"]
+}
