@@ -10,5 +10,9 @@
     "./manifest.json": "./manifest.json",
     "./icons/*": "./icons/*"
   },
-  "files": ["icons", "manifest.json", "src"]
+  "files": [
+    "icons",
+    "manifest.json",
+    "src"
+  ]
 }
