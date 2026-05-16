@@ -34,7 +34,3517 @@
           "hasSecondary": false
         }
       }
+    },
+    {
+      "name": "building-structure",
+      "displayName": "Building Structure",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "floor-plan",
+      "displayName": "Floor Plan",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "property-paperwork",
+      "displayName": "Property Paperwork",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "outdoor",
+      "displayName": "Outdoor",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "view",
+      "displayName": "View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "deed",
+      "displayName": "Deed",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "insurance",
+      "displayName": "Insurance",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "features",
+      "displayName": "Features",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "utilities",
+      "displayName": "Utilities",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "climate",
+      "displayName": "Climate",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "security",
+      "displayName": "Security",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "smart-home",
+      "displayName": "Smart Home",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "energy-sustainability",
+      "displayName": "Energy & Sustainability",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "floor-count",
+      "displayName": "Number of Floors",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "building-height",
+      "displayName": "Building Height",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "building-age",
+      "displayName": "Building Age",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "elevator",
+      "displayName": "Elevator",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "staircase",
+      "displayName": "Staircase",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "foundation",
+      "displayName": "Foundation",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "construction-material",
+      "displayName": "Construction Material",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "roof",
+      "displayName": "Roof",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "living-room",
+      "displayName": "Living Room",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "dining-room",
+      "displayName": "Dining Room",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "family-room",
+      "displayName": "Family Room",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "storage-room",
+      "displayName": "Storage Room",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "walk-in-closet",
+      "displayName": "Walk-in Closet",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "built-in-wardrobe",
+      "displayName": "Built-in Wardrobe",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "built-in-shelving",
+      "displayName": "Built-in Shelving",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "crown-molding",
+      "displayName": "Crown Molding",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "flooring-type",
+      "displayName": "Flooring Type",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "wall-finish",
+      "displayName": "Wall Finish",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "ceiling-type",
+      "displayName": "Ceiling Type",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "kitchen",
+      "displayName": "Kitchen",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "dishwasher",
+      "displayName": "Dishwasher",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 14 14",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "refrigerator",
+      "displayName": "Refrigerator",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "oven",
+      "displayName": "Oven",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "microwave",
+      "displayName": "Microwave",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "cooktop",
+      "displayName": "Cooktop",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "range-hood",
+      "displayName": "Range Hood",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "garbage-disposal",
+      "displayName": "Garbage Disposal",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "endowment-waqf",
+      "displayName": "Endowment (Waqf)",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "mortgage",
+      "displayName": "Mortgage",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "property-restriction",
+      "displayName": "Property Restriction",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "associated-will",
+      "displayName": "Associated Will",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "owners-association",
+      "displayName": "Owners' Association",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "supervising-consultant",
+      "displayName": "Supervising Consultant",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "building-permit",
+      "displayName": "Building Permit",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "permit-date",
+      "displayName": "Permit Date",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "garden",
+      "displayName": "Garden",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "balcony",
+      "displayName": "Balcony",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "terrace",
+      "displayName": "Terrace",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "patio",
+      "displayName": "Patio",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "courtyard",
+      "displayName": "Courtyard",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "accessible-rooftop",
+      "displayName": "Accessible Rooftop",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "swimming-pool",
+      "displayName": "Swimming Pool",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "jacuzzi",
+      "displayName": "Jacuzzi",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "outdoor-kitchen",
+      "displayName": "Outdoor Kitchen",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "outdoor-majlis",
+      "displayName": "Outdoor Majlis",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "panoramic-view",
+      "displayName": "Panoramic View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "city-view",
+      "displayName": "City View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "greenspace-view",
+      "displayName": "Greenspace View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "desert-view",
+      "displayName": "Desert View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "mountain-view",
+      "displayName": "Mountain View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "landmark-view",
+      "displayName": "Landmark View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "sea-view",
+      "displayName": "Sea View",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "noise-level",
+      "displayName": "Noise Level",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "privacy-level",
+      "displayName": "Privacy Level",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "central-ac",
+      "displayName": "Central A/C",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "individual-ac",
+      "displayName": "Individual A/C",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "central-heating",
+      "displayName": "Central Heating",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "underfloor-heating",
+      "displayName": "Underfloor Heating",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "radiator",
+      "displayName": "Radiator",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "ceiling-fan",
+      "displayName": "Ceiling Fan",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "ventilation",
+      "displayName": "Ventilation",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "sandstorm-protection",
+      "displayName": "Sandstorm Protection",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "desert-climate-adaptation",
+      "displayName": "Desert Climate Adaptation",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-tank",
+      "displayName": "Water Tank",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "backup-generator",
+      "displayName": "Backup Generator",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "ups-backup",
+      "displayName": "UPS Backup",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-pressure-booster",
+      "displayName": "Water Pressure Booster",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "sun-shade",
+      "displayName": "Sun Shade",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "cooling-rating",
+      "displayName": "Cooling Rating",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "heat-insulation-rating",
+      "displayName": "Heat Insulation Rating",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "window",
+      "displayName": "Window",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "door",
+      "displayName": "Door",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "shutters",
+      "displayName": "Shutters",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "security-bars",
+      "displayName": "Security Bars",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "blinds",
+      "displayName": "Blinds",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "insulated-glazing",
+      "displayName": "Insulated Glazing",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "soundproof",
+      "displayName": "Soundproof",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "tinted-glass",
+      "displayName": "Tinted Glass",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "alarm-system",
+      "displayName": "Alarm System",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "cctv-camera",
+      "displayName": "CCTV Camera",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "intercom",
+      "displayName": "Intercom",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "main-gate",
+      "displayName": "Main Gate",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "security-guard",
+      "displayName": "Security Guard",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "fire-safety",
+      "displayName": "Fire Safety",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "smoke-detector",
+      "displayName": "Smoke Detector",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "fire-extinguisher",
+      "displayName": "Fire Extinguisher",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "emergency-exit",
+      "displayName": "Emergency Exit",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "safe-room",
+      "displayName": "Safe Room",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "smart-home-hub",
+      "displayName": "Smart Home Hub",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "home-automation",
+      "displayName": "Home Automation",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "smart-lighting",
+      "displayName": "Smart Lighting",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "smart-thermostat",
+      "displayName": "Smart Thermostat",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "smart-security",
+      "displayName": "Smart Security",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "sound-system",
+      "displayName": "Sound System",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "av-prewiring",
+      "displayName": "A/V Pre-wiring",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "usb-outlet",
+      "displayName": "USB Outlet",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "ev-charging",
+      "displayName": "EV Charging",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-connection",
+      "displayName": "Water Connection",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-source",
+      "displayName": "Water Source",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-pressure",
+      "displayName": "Water Pressure",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-meter",
+      "displayName": "Water Meter",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "electricity-connection",
+      "displayName": "Electricity Connection",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "electricity-meter",
+      "displayName": "Electricity Meter",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "wiring-age",
+      "displayName": "Wiring Age",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "gas-connection",
+      "displayName": "Gas Connection",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "internet",
+      "displayName": "Internet",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "mobile-coverage",
+      "displayName": "Mobile Coverage",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "cable-tv",
+      "displayName": "Cable TV",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "landline",
+      "displayName": "Landline",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "sewage",
+      "displayName": "Sewage",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "energy-certificate",
+      "displayName": "Energy Certificate",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "energy-rating",
+      "displayName": "Energy Rating",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "solar-panels",
+      "displayName": "Solar Panels",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "solar-water-heater",
+      "displayName": "Solar Water Heater",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "insulation",
+      "displayName": "Insulation",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "energy-efficient-windows",
+      "displayName": "Energy-Efficient Windows",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        },
+        "flat": {
+          "viewBox": "0 0 24 24",
+          "hasSecondary": false
+        }
+      }
+    },
+    {
+      "name": "energy-efficient-appliances",
+      "displayName": "Energy-Efficient Appliances",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "water-conservation",
+      "displayName": "Water Conservation",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "rainwater-harvesting",
+      "displayName": "Rainwater Harvesting",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "heritage-feature",
+      "displayName": "Heritage Feature",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "document-file",
+      "displayName": "Document File",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
+    },
+    {
+      "name": "download",
+      "displayName": "Download",
+      "variants": {
+        "line": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "solid": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "remix": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": false
+        },
+        "duo": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        },
+        "flat": {
+          "viewBox": "0 0 48 48",
+          "hasSecondary": true
+        }
+      }
     }
   ],
-  "generatedAt": "2026-05-16T11:50:24.119Z"
+  "generatedAt": "2026-05-16T19:43:29.436Z"
 }
