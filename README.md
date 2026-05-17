@@ -37,13 +37,13 @@ git submodule add https://github.com/soar-design/soar-icons vendor/soar-icons
 ```js
 import { getSvg } from "@soar-icons/core";
 
-const svg = await getSvg("home", "duo");
+const svg = await getSvg("home-01", "bulk");
 ```
 
 ### Import a specific SVG file
 
 ```js
-import homeSolid from "@soar-icons/core/icons/home/solid.svg";
+import homeSolid from "@soar-icons/core/icons/home-01/solid.svg";
 ```
 
 (Requires your bundler to handle SVG imports — Vite, Webpack with `asset/source`, etc.)
@@ -53,9 +53,9 @@ import homeSolid from "@soar-icons/core/icons/home/solid.svg";
 ```js
 import { manifest, listIcons, listStyles } from "@soar-icons/core";
 
-listIcons();              // ["home", ...]
-listStyles();             // ["line", "solid", "remix", "duo", "flat"]
-manifest.icons[0].variants;
+listIcons();              // ["a-arrow-down", "abacus", "home-01", ...]
+listStyles();             // ["line", "solid", "bulk"]
+manifest.icons[0];
 ```
 
 The full `manifest.json` is also importable:
@@ -68,10 +68,10 @@ import manifest from "@soar-icons/core/manifest.json" with { type: "json" };
 
 Every SVG in this package follows the same rules:
 
+- 24×24 `viewBox`.
 - Paints with `currentColor` for the primary tone.
-- For two-tone styles, the secondary tone uses `currentColor` + `fill-opacity="0.4"` (or `stroke-opacity`). One color in, two visible tones out.
+- For `bulk`, the secondary tone uses `currentColor` + `opacity="0.4"`. One color in, two visible tones out.
 - No fixed `width`/`height` on the root `<svg>` — the consumer sets size.
-- `viewBox` preserved from the source. It's typically `0 0 14 14` for Flex icons; you don't need to care, since you size the icon yourself.
 
 ## Available icons
 
