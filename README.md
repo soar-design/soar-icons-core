@@ -72,7 +72,3 @@ Every SVG in this package follows the same rules:
 - Paints with `currentColor` for the primary tone.
 - For `bulk`, the secondary tone uses `currentColor` + `opacity="0.4"`. One color in, two visible tones out.
 - No fixed `width`/`height` on the root `<svg>` — the consumer sets size.
-
-## Available icons
-
-See [`manifest.json`](./manifest.json) in this package.
