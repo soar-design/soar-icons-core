@@ -7612,6 +7612,10 @@
       "displayName": "Flash"
     },
     {
+      "name": "flash-1",
+      "displayName": "Flash 1"
+    },
+    {
       "name": "flash-off",
       "displayName": "Flash Off"
     },
@@ -11788,6 +11792,10 @@
       "displayName": "Modern Tv Issue"
     },
     {
+      "name": "module",
+      "displayName": "Module"
+    },
+    {
       "name": "molecules",
       "displayName": "Molecules"
     },
@@ -13146,6 +13154,10 @@
     {
       "name": "parking-meter",
       "displayName": "Parking Meter"
+    },
+    {
+      "name": "parking-sign",
+      "displayName": "Parking Sign"
     },
     {
       "name": "party",
@@ -15856,6 +15868,10 @@
       "displayName": "Shield User"
     },
     {
+      "name": "shipment-stack",
+      "displayName": "Shipment Stack"
+    },
+    {
       "name": "shipment-tracking",
       "displayName": "Shipment Tracking"
     },
@@ -16996,6 +17012,14 @@
       "displayName": "Stairs 04"
     },
     {
+      "name": "stairs-1",
+      "displayName": "Stairs 1"
+    },
+    {
+      "name": "stairs-2",
+      "displayName": "Stairs 2"
+    },
+    {
       "name": "stake",
       "displayName": "Stake"
     },
@@ -17194,6 +17218,10 @@
     {
       "name": "street-food",
       "displayName": "Street Food"
+    },
+    {
+      "name": "street-road",
+      "displayName": "Street Road"
     },
     {
       "name": "stripe",
@@ -19884,6 +19912,10 @@
       "displayName": "Water Pump"
     },
     {
+      "name": "water-tap",
+      "displayName": "Water Tap"
+    },
+    {
       "name": "waterfall-down-01",
       "displayName": "Waterfall Down 01"
     },
@@ -20496,5 +20528,5 @@
       "displayName": "Zzz"
     }
   ],
-  "generatedAt": "2026-05-29T14:16:39.673Z"
+  "generatedAt": "2026-05-31T12:16:19.626Z"
 }
