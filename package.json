@@ -13,6 +13,7 @@
   "files": [
     "icons",
     "manifest.json",
-    "src"
+    "src",
+    "README.md"
   ]
 }

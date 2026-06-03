@@ -4,30 +4,12 @@ Raw SVG assets and a manifest. Framework-agnostic. Use this from anything that i
 
 ## Install
 
-This package is not published to npm. Install via the Git monorepo.
-
-**Workspace** (recommended for monorepos):
-
-```jsonc
-{
-  "dependencies": {
-    "@soar-icons/core": "workspace:*"
-  }
-}
-```
-
-**Git submodule + link**:
-
 ```bash
-git submodule add https://github.com/soar-design/soar-icons vendor/soar-icons
-```
-
-```jsonc
-{
-  "dependencies": {
-    "@soar-icons/core": "link:./vendor/soar-icons/packages/core"
-  }
-}
+pnpm add github:soar-design/soar-icons-core
+# or
+npm install github:soar-design/soar-icons-core
+# or
+yarn add github:soar-design/soar-icons-core
 ```
 
 ## Usage
