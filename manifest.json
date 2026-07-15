@@ -15,6 +15,10 @@
       "displayName": "A Arrow Up"
     },
     {
+      "name": "activity-01",
+      "displayName": "Activity 01"
+    },
+    {
       "name": "add-01",
       "displayName": "Add 01"
     },
@@ -25,6 +29,14 @@
     {
       "name": "airplane-01",
       "displayName": "Airplane 01"
+    },
+    {
+      "name": "airplane-landing-01",
+      "displayName": "Airplane Landing 01"
+    },
+    {
+      "name": "airplane-take-off-01",
+      "displayName": "Airplane Take Off 01"
     },
     {
       "name": "alarm-clock",
@@ -133,6 +145,10 @@
     {
       "name": "archive",
       "displayName": "Archive"
+    },
+    {
+      "name": "archive-01",
+      "displayName": "Archive 01"
     },
     {
       "name": "archive-restore",
@@ -323,12 +339,24 @@
       "displayName": "Arrow Up Za"
     },
     {
+      "name": "asterisk",
+      "displayName": "Asterisk"
+    },
+    {
       "name": "at",
       "displayName": "At"
     },
     {
+      "name": "atom-01",
+      "displayName": "Atom 01"
+    },
+    {
       "name": "attachment",
       "displayName": "Attachment"
+    },
+    {
+      "name": "attachment-01",
+      "displayName": "Attachment 01"
     },
     {
       "name": "award-01",
@@ -349,6 +377,14 @@
     {
       "name": "backward-01",
       "displayName": "Backward 01"
+    },
+    {
+      "name": "backward-02",
+      "displayName": "Backward 02"
+    },
+    {
+      "name": "badge",
+      "displayName": "Badge"
     },
     {
       "name": "badge-alert",
@@ -407,12 +443,28 @@
       "displayName": "Bandage"
     },
     {
+      "name": "bar-chart",
+      "displayName": "Bar Chart"
+    },
+    {
+      "name": "bar-chart-horizontal",
+      "displayName": "Bar Chart Horizontal"
+    },
+    {
+      "name": "barcode-scan",
+      "displayName": "Barcode Scan"
+    },
+    {
       "name": "barrel",
       "displayName": "Barrel"
     },
     {
       "name": "bathtub-01",
       "displayName": "Bathtub 01"
+    },
+    {
+      "name": "battery-charging-01",
+      "displayName": "Battery Charging 01"
     },
     {
       "name": "battery-empty",
@@ -431,6 +483,10 @@
       "displayName": "Battery Medium 01"
     },
     {
+      "name": "battery-medium-02",
+      "displayName": "Battery Medium 02"
+    },
+    {
       "name": "battery-plus",
       "displayName": "Battery Plus"
     },
@@ -439,8 +495,16 @@
       "displayName": "Battery Warning"
     },
     {
+      "name": "bean",
+      "displayName": "Bean"
+    },
+    {
       "name": "bean-off",
       "displayName": "Bean Off"
+    },
+    {
+      "name": "bed",
+      "displayName": "Bed"
     },
     {
       "name": "bed-double",
@@ -449,6 +513,10 @@
     {
       "name": "bed-single-01",
       "displayName": "Bed Single 01"
+    },
+    {
+      "name": "beef",
+      "displayName": "Beef"
     },
     {
       "name": "bell-dot",
@@ -469,6 +537,10 @@
     {
       "name": "bicycle",
       "displayName": "Bicycle"
+    },
+    {
+      "name": "binary-code",
+      "displayName": "Binary Code"
     },
     {
       "name": "binoculars",
@@ -521,6 +593,14 @@
     {
       "name": "bomb",
       "displayName": "Bomb"
+    },
+    {
+      "name": "bone-01",
+      "displayName": "Bone 01"
+    },
+    {
+      "name": "book-01",
+      "displayName": "Book 01"
     },
     {
       "name": "book-a",
@@ -599,6 +679,14 @@
       "displayName": "Bookmark 01"
     },
     {
+      "name": "bookmark-check-01",
+      "displayName": "Bookmark Check 01"
+    },
+    {
+      "name": "bookmark-minus-01",
+      "displayName": "Bookmark Minus 01"
+    },
+    {
       "name": "bookmark-off-01",
       "displayName": "Bookmark Off 01"
     },
@@ -607,8 +695,20 @@
       "displayName": "Boom Box"
     },
     {
+      "name": "bot",
+      "displayName": "Bot"
+    },
+    {
+      "name": "brain",
+      "displayName": "Brain"
+    },
+    {
       "name": "brain-cog",
       "displayName": "Brain Cog"
+    },
+    {
+      "name": "brick-wall",
+      "displayName": "Brick Wall"
     },
     {
       "name": "brick-wall-shield",
@@ -639,6 +739,10 @@
       "displayName": "Browser"
     },
     {
+      "name": "brush",
+      "displayName": "Brush"
+    },
+    {
       "name": "bubble-chat",
       "displayName": "Bubble Chat"
     },
@@ -667,6 +771,10 @@
       "displayName": "Bus 01"
     },
     {
+      "name": "cable",
+      "displayName": "Cable"
+    },
+    {
       "name": "cable-car",
       "displayName": "Cable Car"
     },
@@ -677,6 +785,10 @@
     {
       "name": "calculator",
       "displayName": "Calculator"
+    },
+    {
+      "name": "calculator-01",
+      "displayName": "Calculator 01"
     },
     {
       "name": "calendar-01",
@@ -693,6 +805,14 @@
     {
       "name": "calendar-fold",
       "displayName": "Calendar Fold"
+    },
+    {
+      "name": "calendar-minus-01",
+      "displayName": "Calendar Minus 01"
+    },
+    {
+      "name": "calendar-minus-02",
+      "displayName": "Calendar Minus 02"
     },
     {
       "name": "calendar-off",
@@ -727,6 +847,10 @@
       "displayName": "Call Incoming 01"
     },
     {
+      "name": "call-missed-01",
+      "displayName": "Call Missed 01"
+    },
+    {
       "name": "call-outgoing-01",
       "displayName": "Call Outgoing 01"
     },
@@ -747,12 +871,20 @@
       "displayName": "Cancel Circle"
     },
     {
+      "name": "candy",
+      "displayName": "Candy"
+    },
+    {
       "name": "candy-cane",
       "displayName": "Candy Cane"
     },
     {
       "name": "candy-off",
       "displayName": "Candy Off"
+    },
+    {
+      "name": "cannabis",
+      "displayName": "Cannabis"
     },
     {
       "name": "cannabis-off",
@@ -811,6 +943,10 @@
       "displayName": "Chart Candlestick"
     },
     {
+      "name": "chart-column",
+      "displayName": "Chart Column"
+    },
+    {
       "name": "chart-column-big",
       "displayName": "Chart Column Big"
     },
@@ -847,6 +983,10 @@
       "displayName": "Checkmark Badge 01"
     },
     {
+      "name": "checkmark-badge-02",
+      "displayName": "Checkmark Badge 02"
+    },
+    {
       "name": "checkmark-circle-02",
       "displayName": "Checkmark Circle 02"
     },
@@ -877,6 +1017,10 @@
     {
       "name": "church",
       "displayName": "Church"
+    },
+    {
+      "name": "cigarette",
+      "displayName": "Cigarette"
     },
     {
       "name": "cigarette-off",
@@ -951,6 +1095,22 @@
       "displayName": "Clock 01"
     },
     {
+      "name": "clock-02",
+      "displayName": "Clock 02"
+    },
+    {
+      "name": "clock-03",
+      "displayName": "Clock 03"
+    },
+    {
+      "name": "clock-04",
+      "displayName": "Clock 04"
+    },
+    {
+      "name": "clock-05",
+      "displayName": "Clock 05"
+    },
+    {
       "name": "clock-alert",
       "displayName": "Clock Alert"
     },
@@ -987,8 +1147,24 @@
       "displayName": "Cloud Download"
     },
     {
+      "name": "cloud-fast-wind",
+      "displayName": "Cloud Fast Wind"
+    },
+    {
+      "name": "cloud-little-rain",
+      "displayName": "Cloud Little Rain"
+    },
+    {
+      "name": "cloud-mid-rain",
+      "displayName": "Cloud Mid Rain"
+    },
+    {
       "name": "cloud-off",
       "displayName": "Cloud Off"
+    },
+    {
+      "name": "cloud-server",
+      "displayName": "Cloud Server"
     },
     {
       "name": "cloud-snow",
@@ -997,6 +1173,10 @@
     {
       "name": "cloud-upload",
       "displayName": "Cloud Upload"
+    },
+    {
+      "name": "code",
+      "displayName": "Code"
     },
     {
       "name": "code-square",
@@ -1043,8 +1223,20 @@
       "displayName": "Computer"
     },
     {
+      "name": "cone-01",
+      "displayName": "Cone 01"
+    },
+    {
       "name": "construction",
       "displayName": "Construction"
+    },
+    {
+      "name": "contact",
+      "displayName": "Contact"
+    },
+    {
+      "name": "contact-02",
+      "displayName": "Contact 02"
     },
     {
       "name": "container",
@@ -1053,6 +1245,10 @@
     {
       "name": "cookie",
       "displayName": "Cookie"
+    },
+    {
+      "name": "copy",
+      "displayName": "Copy"
     },
     {
       "name": "copy-01",
@@ -1127,20 +1323,48 @@
       "displayName": "Cursor 01"
     },
     {
+      "name": "cursor-02",
+      "displayName": "Cursor 02"
+    },
+    {
+      "name": "cylinder-01",
+      "displayName": "Cylinder 01"
+    },
+    {
       "name": "dam",
       "displayName": "Dam"
+    },
+    {
+      "name": "dashboard-speed-01",
+      "displayName": "Dashboard Speed 01"
     },
     {
       "name": "database",
       "displayName": "Database"
     },
     {
+      "name": "database-01",
+      "displayName": "Database 01"
+    },
+    {
+      "name": "delete-01",
+      "displayName": "Delete 01"
+    },
+    {
       "name": "delete-02",
       "displayName": "Delete 02"
     },
     {
+      "name": "delete-03",
+      "displayName": "Delete 03"
+    },
+    {
       "name": "diameter",
       "displayName": "Diameter"
+    },
+    {
+      "name": "diamond",
+      "displayName": "Diamond"
     },
     {
       "name": "diamond-minus",
@@ -1157,6 +1381,10 @@
     {
       "name": "dice",
       "displayName": "Dice"
+    },
+    {
+      "name": "disc",
+      "displayName": "Disc"
     },
     {
       "name": "disc-album",
@@ -1179,8 +1407,20 @@
       "displayName": "Dollar 02"
     },
     {
+      "name": "dollar-circle",
+      "displayName": "Dollar Circle"
+    },
+    {
+      "name": "door-01",
+      "displayName": "Door 01"
+    },
+    {
       "name": "door-open",
       "displayName": "Door Open"
+    },
+    {
+      "name": "doughnut",
+      "displayName": "Doughnut"
     },
     {
       "name": "download-01",
@@ -1207,6 +1447,14 @@
       "displayName": "Droplet Off"
     },
     {
+      "name": "dumbbell-01",
+      "displayName": "Dumbbell 01"
+    },
+    {
+      "name": "ear",
+      "displayName": "Ear"
+    },
+    {
       "name": "ear-off",
       "displayName": "Ear Off"
     },
@@ -1217,6 +1465,22 @@
     {
       "name": "earth-lock",
       "displayName": "Earth Lock"
+    },
+    {
+      "name": "edit-01",
+      "displayName": "Edit 01"
+    },
+    {
+      "name": "edit-02",
+      "displayName": "Edit 02"
+    },
+    {
+      "name": "edit-03",
+      "displayName": "Edit 03"
+    },
+    {
+      "name": "egg",
+      "displayName": "Egg"
     },
     {
       "name": "egg-fried",
@@ -1245,6 +1509,10 @@
     {
       "name": "expand",
       "displayName": "Expand"
+    },
+    {
+      "name": "eye",
+      "displayName": "Eye"
     },
     {
       "name": "face-id",
@@ -1291,8 +1559,24 @@
       "displayName": "File Archive"
     },
     {
+      "name": "file-audio",
+      "displayName": "File Audio"
+    },
+    {
+      "name": "file-badge",
+      "displayName": "File Badge"
+    },
+    {
       "name": "file-box",
       "displayName": "File Box"
+    },
+    {
+      "name": "file-braces",
+      "displayName": "File Braces"
+    },
+    {
+      "name": "file-chart-column",
+      "displayName": "File Chart Column"
     },
     {
       "name": "file-chart-column-increasing",
@@ -1305,6 +1589,10 @@
     {
       "name": "file-clock",
       "displayName": "File Clock"
+    },
+    {
+      "name": "file-code",
+      "displayName": "File Code"
     },
     {
       "name": "file-code-corner",
@@ -1351,6 +1639,14 @@
       "displayName": "File Input"
     },
     {
+      "name": "file-key",
+      "displayName": "File Key"
+    },
+    {
+      "name": "file-lock",
+      "displayName": "File Lock"
+    },
+    {
       "name": "file-minus",
       "displayName": "File Minus"
     },
@@ -1359,8 +1655,16 @@
       "displayName": "File Music"
     },
     {
+      "name": "file-pen",
+      "displayName": "File Pen"
+    },
+    {
       "name": "file-play",
       "displayName": "File Play"
+    },
+    {
+      "name": "file-plus",
+      "displayName": "File Plus"
     },
     {
       "name": "file-question-mark",
@@ -1395,6 +1699,10 @@
       "displayName": "File Terminal"
     },
     {
+      "name": "file-type",
+      "displayName": "File Type"
+    },
+    {
       "name": "file-up",
       "displayName": "File Up"
     },
@@ -1411,12 +1719,28 @@
       "displayName": "File Validation"
     },
     {
+      "name": "file-video",
+      "displayName": "File Video"
+    },
+    {
       "name": "file-video-camera",
       "displayName": "File Video Camera"
     },
     {
+      "name": "file-volume",
+      "displayName": "File Volume"
+    },
+    {
+      "name": "file-x",
+      "displayName": "File X"
+    },
+    {
       "name": "file-x-corner",
       "displayName": "File X Corner"
+    },
+    {
+      "name": "files-01",
+      "displayName": "Files 01"
     },
     {
       "name": "film-01",
@@ -1475,6 +1799,18 @@
       "displayName": "Flash Off"
     },
     {
+      "name": "flashlight",
+      "displayName": "Flashlight"
+    },
+    {
+      "name": "flip-horizontal",
+      "displayName": "Flip Horizontal"
+    },
+    {
+      "name": "flip-vertical",
+      "displayName": "Flip Vertical"
+    },
+    {
       "name": "floppy-disk",
       "displayName": "Floppy Disk"
     },
@@ -1485,6 +1821,10 @@
     {
       "name": "folder-01",
       "displayName": "Folder 01"
+    },
+    {
+      "name": "folder-02",
+      "displayName": "Folder 02"
     },
     {
       "name": "folder-add",
@@ -1507,6 +1847,10 @@
       "displayName": "Folder Code"
     },
     {
+      "name": "folder-cog",
+      "displayName": "Folder Cog"
+    },
+    {
       "name": "folder-dot",
       "displayName": "Folder Dot"
     },
@@ -1517,6 +1861,10 @@
     {
       "name": "folder-edit",
       "displayName": "Folder Edit"
+    },
+    {
+      "name": "folder-git",
+      "displayName": "Folder Git"
     },
     {
       "name": "folder-heart",
@@ -1551,8 +1899,16 @@
       "displayName": "Folder Pen"
     },
     {
+      "name": "folder-remove",
+      "displayName": "Folder Remove"
+    },
+    {
       "name": "folder-root",
       "displayName": "Folder Root"
+    },
+    {
+      "name": "folder-search",
+      "displayName": "Folder Search"
     },
     {
       "name": "folder-symlink",
@@ -1567,12 +1923,20 @@
       "displayName": "Folder Tree"
     },
     {
+      "name": "folder-upload",
+      "displayName": "Folder Upload"
+    },
+    {
       "name": "folders",
       "displayName": "Folders"
     },
     {
       "name": "forward-01",
       "displayName": "Forward 01"
+    },
+    {
+      "name": "forward-02",
+      "displayName": "Forward 02"
     },
     {
       "name": "fuel",
@@ -1589,6 +1953,10 @@
     {
       "name": "game-controller-01",
       "displayName": "Game Controller 01"
+    },
+    {
+      "name": "game-controller-02",
+      "displayName": "Game Controller 02"
     },
     {
       "name": "gamepad-directional",
@@ -1611,12 +1979,32 @@
       "displayName": "Gift"
     },
     {
+      "name": "git-branch",
+      "displayName": "Git Branch"
+    },
+    {
+      "name": "git-commit",
+      "displayName": "Git Commit"
+    },
+    {
       "name": "git-commit-horizontal",
       "displayName": "Git Commit Horizontal"
     },
     {
+      "name": "git-compare",
+      "displayName": "Git Compare"
+    },
+    {
       "name": "git-fork",
       "displayName": "Git Fork"
+    },
+    {
+      "name": "git-merge",
+      "displayName": "Git Merge"
+    },
+    {
+      "name": "git-pull-request",
+      "displayName": "Git Pull Request"
     },
     {
       "name": "git-pull-request-closed",
@@ -1635,6 +2023,10 @@
       "displayName": "Global"
     },
     {
+      "name": "globe",
+      "displayName": "Globe"
+    },
+    {
       "name": "globe-02",
       "displayName": "Globe 02"
     },
@@ -1651,6 +2043,10 @@
       "displayName": "Grapes"
     },
     {
+      "name": "grid",
+      "displayName": "Grid"
+    },
+    {
       "name": "grid-view",
       "displayName": "Grid View"
     },
@@ -1661,6 +2057,10 @@
     {
       "name": "ham",
       "displayName": "Ham"
+    },
+    {
+      "name": "hamburger-01",
+      "displayName": "Hamburger 01"
     },
     {
       "name": "hand-coins",
@@ -1691,6 +2091,10 @@
       "displayName": "Hashtag"
     },
     {
+      "name": "heading",
+      "displayName": "Heading"
+    },
+    {
       "name": "heading-01",
       "displayName": "Heading 01"
     },
@@ -1701,6 +2105,18 @@
     {
       "name": "heading-03",
       "displayName": "Heading 03"
+    },
+    {
+      "name": "heading-04",
+      "displayName": "Heading 04"
+    },
+    {
+      "name": "heading-05",
+      "displayName": "Heading 05"
+    },
+    {
+      "name": "heading-06",
+      "displayName": "Heading 06"
     },
     {
       "name": "headphones",
@@ -1743,6 +2159,10 @@
       "displayName": "Home 03"
     },
     {
+      "name": "hop",
+      "displayName": "Hop"
+    },
+    {
       "name": "hop-off",
       "displayName": "Hop Off"
     },
@@ -1757,6 +2177,10 @@
     {
       "name": "hourglass",
       "displayName": "Hourglass"
+    },
+    {
+      "name": "house-01",
+      "displayName": "House 01"
     },
     {
       "name": "house-heart",
@@ -1775,6 +2199,10 @@
       "displayName": "Ice Cream 01"
     },
     {
+      "name": "ice-cream-02",
+      "displayName": "Ice Cream 02"
+    },
+    {
       "name": "id-card-lanyard",
       "displayName": "Id Card Lanyard"
     },
@@ -1787,8 +2215,28 @@
       "displayName": "Image 01"
     },
     {
+      "name": "image-add-01",
+      "displayName": "Image Add 01"
+    },
+    {
+      "name": "image-download",
+      "displayName": "Image Download"
+    },
+    {
+      "name": "image-not-found-01",
+      "displayName": "Image Not Found 01"
+    },
+    {
       "name": "image-play",
       "displayName": "Image Play"
+    },
+    {
+      "name": "image-remove-01",
+      "displayName": "Image Remove 01"
+    },
+    {
+      "name": "image-upload-01",
+      "displayName": "Image Upload 01"
     },
     {
       "name": "inbox",
@@ -1815,8 +2263,16 @@
       "displayName": "Iteration Cw"
     },
     {
+      "name": "joystick-01",
+      "displayName": "Joystick 01"
+    },
+    {
       "name": "justice-scale-01",
       "displayName": "Justice Scale 01"
+    },
+    {
+      "name": "kanban",
+      "displayName": "Kanban"
     },
     {
       "name": "kayak",
@@ -1833,6 +2289,10 @@
     {
       "name": "keyboard",
       "displayName": "Keyboard"
+    },
+    {
+      "name": "kitchen-utensils",
+      "displayName": "Kitchen Utensils"
     },
     {
       "name": "lamp-01",
@@ -1859,8 +2319,16 @@
       "displayName": "Language Square"
     },
     {
+      "name": "laptop",
+      "displayName": "Laptop"
+    },
+    {
       "name": "lasso-select",
       "displayName": "Lasso Select"
+    },
+    {
+      "name": "laughing",
+      "displayName": "Laughing"
     },
     {
       "name": "layers-01",
@@ -1869,6 +2337,10 @@
     {
       "name": "layers-02",
       "displayName": "Layers 02"
+    },
+    {
+      "name": "layout-01",
+      "displayName": "Layout 01"
     },
     {
       "name": "layout-grid",
@@ -1909,6 +2381,10 @@
     {
       "name": "link-01",
       "displayName": "Link 01"
+    },
+    {
+      "name": "link-02",
+      "displayName": "Link 02"
     },
     {
       "name": "link-square-01",
@@ -1975,6 +2451,14 @@
       "displayName": "Location 01"
     },
     {
+      "name": "location-offline-01",
+      "displayName": "Location Offline 01"
+    },
+    {
+      "name": "lock",
+      "displayName": "Lock"
+    },
+    {
       "name": "login-01",
       "displayName": "Login 01"
     },
@@ -2007,6 +2491,18 @@
       "displayName": "Luggage 01"
     },
     {
+      "name": "magic-wand-01",
+      "displayName": "Magic Wand 01"
+    },
+    {
+      "name": "magic-wand-02",
+      "displayName": "Magic Wand 02"
+    },
+    {
+      "name": "magic-wand-03",
+      "displayName": "Magic Wand 03"
+    },
+    {
       "name": "magnet",
       "displayName": "Magnet"
     },
@@ -2015,12 +2511,36 @@
       "displayName": "Mail 01"
     },
     {
+      "name": "mail-add-01",
+      "displayName": "Mail Add 01"
+    },
+    {
+      "name": "mail-minus-01",
+      "displayName": "Mail Minus 01"
+    },
+    {
       "name": "mail-open",
       "displayName": "Mail Open"
     },
     {
+      "name": "mail-open-01",
+      "displayName": "Mail Open 01"
+    },
+    {
       "name": "mail-question-mark",
       "displayName": "Mail Question Mark"
+    },
+    {
+      "name": "mail-remove-01",
+      "displayName": "Mail Remove 01"
+    },
+    {
+      "name": "mail-search-01",
+      "displayName": "Mail Search 01"
+    },
+    {
+      "name": "mail-validation-01",
+      "displayName": "Mail Validation 01"
     },
     {
       "name": "mail-warning",
@@ -2035,12 +2555,32 @@
       "displayName": "Mails"
     },
     {
+      "name": "map-pin",
+      "displayName": "Map Pin"
+    },
+    {
+      "name": "map-pin-check",
+      "displayName": "Map Pin Check"
+    },
+    {
       "name": "map-pin-house",
       "displayName": "Map Pin House"
     },
     {
+      "name": "map-pin-minus",
+      "displayName": "Map Pin Minus"
+    },
+    {
       "name": "map-pin-pen",
       "displayName": "Map Pin Pen"
+    },
+    {
+      "name": "map-pin-plus",
+      "displayName": "Map Pin Plus"
+    },
+    {
+      "name": "map-pin-x",
+      "displayName": "Map Pin X"
     },
     {
       "name": "map-pin-x-inside",
@@ -2049,6 +2589,14 @@
     {
       "name": "maps",
       "displayName": "Maps"
+    },
+    {
+      "name": "maximize-01",
+      "displayName": "Maximize 01"
+    },
+    {
+      "name": "maximize-02",
+      "displayName": "Maximize 02"
     },
     {
       "name": "medal-01",
@@ -2069,6 +2617,10 @@
     {
       "name": "menu-01",
       "displayName": "Menu 01"
+    },
+    {
+      "name": "menu-02",
+      "displayName": "Menu 02"
     },
     {
       "name": "menu-square",
@@ -2115,6 +2667,10 @@
       "displayName": "Mic 01"
     },
     {
+      "name": "mic-02",
+      "displayName": "Mic 02"
+    },
+    {
       "name": "mic-off-01",
       "displayName": "Mic Off 01"
     },
@@ -2129,6 +2685,18 @@
     {
       "name": "microwave",
       "displayName": "Microwave"
+    },
+    {
+      "name": "milk-bottle",
+      "displayName": "Milk Bottle"
+    },
+    {
+      "name": "minimize-01",
+      "displayName": "Minimize 01"
+    },
+    {
+      "name": "minimize-02",
+      "displayName": "Minimize 02"
     },
     {
       "name": "minus-sign",
@@ -2167,6 +2735,18 @@
       "displayName": "Moon"
     },
     {
+      "name": "moon-01",
+      "displayName": "Moon 01"
+    },
+    {
+      "name": "moon-cloud",
+      "displayName": "Moon Cloud"
+    },
+    {
+      "name": "moon-cloud-mid-rain",
+      "displayName": "Moon Cloud Mid Rain"
+    },
+    {
       "name": "more-horizontal",
       "displayName": "More Horizontal"
     },
@@ -2183,6 +2763,10 @@
       "displayName": "Mortarboard 01"
     },
     {
+      "name": "mortarboard-02",
+      "displayName": "Mortarboard 02"
+    },
+    {
       "name": "motorbike-01",
       "displayName": "Motorbike 01"
     },
@@ -2193,6 +2777,10 @@
     {
       "name": "mouse-01",
       "displayName": "Mouse 01"
+    },
+    {
+      "name": "move",
+      "displayName": "Move"
     },
     {
       "name": "move-left",
@@ -2207,8 +2795,24 @@
       "displayName": "Music Note 01"
     },
     {
+      "name": "music-note-02",
+      "displayName": "Music Note 02"
+    },
+    {
+      "name": "music-note-03",
+      "displayName": "Music Note 03"
+    },
+    {
+      "name": "music-note-04",
+      "displayName": "Music Note 04"
+    },
+    {
       "name": "navigation-01",
       "displayName": "Navigation 01"
+    },
+    {
+      "name": "navigation-02",
+      "displayName": "Navigation 02"
     },
     {
       "name": "navigation-off",
@@ -2227,6 +2831,14 @@
       "displayName": "Nfc"
     },
     {
+      "name": "note-01",
+      "displayName": "Note 01"
+    },
+    {
+      "name": "notebook",
+      "displayName": "Notebook"
+    },
+    {
       "name": "notepad-text-dashed",
       "displayName": "Notepad Text Dashed"
     },
@@ -2239,8 +2851,16 @@
       "displayName": "Notification Off 01"
     },
     {
+      "name": "notification-off-02",
+      "displayName": "Notification Off 02"
+    },
+    {
       "name": "notification-snooze-01",
       "displayName": "Notification Snooze 01"
+    },
+    {
+      "name": "nut",
+      "displayName": "Nut"
     },
     {
       "name": "nut-off",
@@ -2259,12 +2879,36 @@
       "displayName": "Option"
     },
     {
+      "name": "orbit-01",
+      "displayName": "Orbit 01"
+    },
+    {
       "name": "origami",
       "displayName": "Origami"
     },
     {
+      "name": "package",
+      "displayName": "Package"
+    },
+    {
+      "name": "package-02",
+      "displayName": "Package 02"
+    },
+    {
+      "name": "package-add",
+      "displayName": "Package Add"
+    },
+    {
+      "name": "package-delivered",
+      "displayName": "Package Delivered"
+    },
+    {
       "name": "package-open",
       "displayName": "Package Open"
+    },
+    {
+      "name": "package-remove",
+      "displayName": "Package Remove"
     },
     {
       "name": "package-search",
@@ -2291,6 +2935,10 @@
       "displayName": "Panel Bottom Close"
     },
     {
+      "name": "panel-left",
+      "displayName": "Panel Left"
+    },
+    {
       "name": "panel-left-close",
       "displayName": "Panel Left Close"
     },
@@ -2301,6 +2949,10 @@
     {
       "name": "panel-left-open",
       "displayName": "Panel Left Open"
+    },
+    {
+      "name": "panel-right",
+      "displayName": "Panel Right"
     },
     {
       "name": "panel-right-close",
@@ -2319,8 +2971,20 @@
       "displayName": "Panel Top Bottom Dashed"
     },
     {
+      "name": "parking-area-circle",
+      "displayName": "Parking Area Circle"
+    },
+    {
+      "name": "parking-area-square",
+      "displayName": "Parking Area Square"
+    },
+    {
       "name": "parking-meter",
       "displayName": "Parking Meter"
+    },
+    {
+      "name": "party",
+      "displayName": "Party"
     },
     {
       "name": "pause",
@@ -2335,12 +2999,24 @@
       "displayName": "Pc Case"
     },
     {
+      "name": "pen-01",
+      "displayName": "Pen 01"
+    },
+    {
+      "name": "pen-tool-01",
+      "displayName": "Pen Tool 01"
+    },
+    {
       "name": "pencil",
       "displayName": "Pencil"
     },
     {
       "name": "pencil-edit-01",
       "displayName": "Pencil Edit 01"
+    },
+    {
+      "name": "pencil-edit-02",
+      "displayName": "Pencil Edit 02"
     },
     {
       "name": "pencil-ruler",
@@ -2367,12 +3043,24 @@
       "displayName": "Philippine Peso"
     },
     {
+      "name": "phone-off-01",
+      "displayName": "Phone Off 01"
+    },
+    {
+      "name": "pi",
+      "displayName": "Pi"
+    },
+    {
       "name": "pi-square",
       "displayName": "Pi Square"
     },
     {
       "name": "pie-chart",
       "displayName": "Pie Chart"
+    },
+    {
+      "name": "pie-chart-01",
+      "displayName": "Pie Chart 01"
     },
     {
       "name": "piggy-bank",
@@ -2419,6 +3107,14 @@
       "displayName": "Playlist 01"
     },
     {
+      "name": "plug-01",
+      "displayName": "Plug 01"
+    },
+    {
+      "name": "plug-02",
+      "displayName": "Plug 02"
+    },
+    {
       "name": "pocket-knife",
       "displayName": "Pocket Knife"
     },
@@ -2439,6 +3135,10 @@
       "displayName": "Popsicle"
     },
     {
+      "name": "pot-01",
+      "displayName": "Pot 01"
+    },
+    {
       "name": "pound",
       "displayName": "Pound"
     },
@@ -2449,6 +3149,10 @@
     {
       "name": "power-off",
       "displayName": "Power Off"
+    },
+    {
+      "name": "presentation-01",
+      "displayName": "Presentation 01"
     },
     {
       "name": "presentation-bar-chart-01",
@@ -2495,12 +3199,24 @@
       "displayName": "Qr Code"
     },
     {
+      "name": "qr-code-01",
+      "displayName": "Qr Code 01"
+    },
+    {
+      "name": "radar-01",
+      "displayName": "Radar 01"
+    },
+    {
       "name": "radiation",
       "displayName": "Radiation"
     },
     {
       "name": "radio",
       "displayName": "Radio"
+    },
+    {
+      "name": "radio-01",
+      "displayName": "Radio 01"
     },
     {
       "name": "radius",
@@ -2555,6 +3271,18 @@
       "displayName": "Rectangle Circle"
     },
     {
+      "name": "recycle-01",
+      "displayName": "Recycle 01"
+    },
+    {
+      "name": "redo",
+      "displayName": "Redo"
+    },
+    {
+      "name": "redo-02",
+      "displayName": "Redo 02"
+    },
+    {
       "name": "redo-dot",
       "displayName": "Redo Dot"
     },
@@ -2583,6 +3311,14 @@
       "displayName": "Repeat Off"
     },
     {
+      "name": "repeat-one-01",
+      "displayName": "Repeat One 01"
+    },
+    {
+      "name": "replace",
+      "displayName": "Replace"
+    },
+    {
       "name": "replace-all",
       "displayName": "Replace All"
     },
@@ -2597,6 +3333,10 @@
     {
       "name": "rocket",
       "displayName": "Rocket"
+    },
+    {
+      "name": "rocket-01",
+      "displayName": "Rocket 01"
     },
     {
       "name": "rocking-chair",
@@ -2627,6 +3367,10 @@
       "displayName": "Rotate Right 01"
     },
     {
+      "name": "route-01",
+      "displayName": "Route 01"
+    },
+    {
       "name": "router",
       "displayName": "Router"
     },
@@ -2651,8 +3395,16 @@
       "displayName": "Sad 01"
     },
     {
+      "name": "safe",
+      "displayName": "Safe"
+    },
+    {
       "name": "salad",
       "displayName": "Salad"
+    },
+    {
+      "name": "satellite",
+      "displayName": "Satellite"
     },
     {
       "name": "saudi-riyal",
@@ -2665,6 +3417,10 @@
     {
       "name": "save-off",
       "displayName": "Save Off"
+    },
+    {
+      "name": "scan",
+      "displayName": "Scan"
     },
     {
       "name": "scan-eye",
@@ -2683,12 +3439,24 @@
       "displayName": "Scissor"
     },
     {
+      "name": "scooter-01",
+      "displayName": "Scooter 01"
+    },
+    {
+      "name": "scroll",
+      "displayName": "Scroll"
+    },
+    {
       "name": "search-01",
       "displayName": "Search 01"
     },
     {
       "name": "search-add",
       "displayName": "Search Add"
+    },
+    {
+      "name": "search-circle",
+      "displayName": "Search Circle"
     },
     {
       "name": "search-code",
@@ -2731,12 +3499,20 @@
       "displayName": "Settings 02"
     },
     {
+      "name": "settings-03",
+      "displayName": "Settings 03"
+    },
+    {
       "name": "shapes",
       "displayName": "Shapes"
     },
     {
       "name": "share-01",
       "displayName": "Share 01"
+    },
+    {
+      "name": "share-02",
+      "displayName": "Share 02"
     },
     {
       "name": "shell",
@@ -2771,8 +3547,16 @@
       "displayName": "Shield User"
     },
     {
+      "name": "shirt-01",
+      "displayName": "Shirt 01"
+    },
+    {
       "name": "shopping-bag-01",
       "displayName": "Shopping Bag 01"
+    },
+    {
+      "name": "shopping-bag-02",
+      "displayName": "Shopping Bag 02"
     },
     {
       "name": "shopping-basket-01",
@@ -2781,6 +3565,10 @@
     {
       "name": "shopping-cart-01",
       "displayName": "Shopping Cart 01"
+    },
+    {
+      "name": "shopping-cart-02",
+      "displayName": "Shopping Cart 02"
     },
     {
       "name": "shovel",
@@ -2797,6 +3585,22 @@
     {
       "name": "signal",
       "displayName": "Signal"
+    },
+    {
+      "name": "signal-full-01",
+      "displayName": "Signal Full 01"
+    },
+    {
+      "name": "signal-low-01",
+      "displayName": "Signal Low 01"
+    },
+    {
+      "name": "signal-medium-01",
+      "displayName": "Signal Medium 01"
+    },
+    {
+      "name": "signal-no-01",
+      "displayName": "Signal No 01"
     },
     {
       "name": "signature",
@@ -2817,6 +3621,10 @@
     {
       "name": "smart-phone-01",
       "displayName": "Smart Phone 01"
+    },
+    {
+      "name": "smart-phone-02",
+      "displayName": "Smart Phone 02"
     },
     {
       "name": "smartphone-charging",
@@ -2887,6 +3695,10 @@
       "displayName": "Spline Pointer"
     },
     {
+      "name": "split",
+      "displayName": "Split"
+    },
+    {
       "name": "spool",
       "displayName": "Spool"
     },
@@ -2903,12 +3715,28 @@
       "displayName": "Square"
     },
     {
+      "name": "square-arrow-down-01",
+      "displayName": "Square Arrow Down 01"
+    },
+    {
       "name": "square-arrow-down-left",
       "displayName": "Square Arrow Down Left"
     },
     {
       "name": "square-arrow-down-right",
       "displayName": "Square Arrow Down Right"
+    },
+    {
+      "name": "square-arrow-left-01",
+      "displayName": "Square Arrow Left 01"
+    },
+    {
+      "name": "square-arrow-right-01",
+      "displayName": "Square Arrow Right 01"
+    },
+    {
+      "name": "square-arrow-up-01",
+      "displayName": "Square Arrow Up 01"
     },
     {
       "name": "square-arrow-up-left",
@@ -3007,6 +3835,10 @@
       "displayName": "Sticker"
     },
     {
+      "name": "sticky-note-01",
+      "displayName": "Sticky Note 01"
+    },
+    {
       "name": "stop",
       "displayName": "Stop"
     },
@@ -3025,6 +3857,22 @@
     {
       "name": "sun-01",
       "displayName": "Sun 01"
+    },
+    {
+      "name": "sun-02",
+      "displayName": "Sun 02"
+    },
+    {
+      "name": "sun-03",
+      "displayName": "Sun 03"
+    },
+    {
+      "name": "sun-cloud-01",
+      "displayName": "Sun Cloud 01"
+    },
+    {
+      "name": "sun-cloud-mid-rain-01",
+      "displayName": "Sun Cloud Mid Rain 01"
     },
     {
       "name": "sunrise",
@@ -3047,8 +3895,20 @@
       "displayName": "Switch Camera"
     },
     {
+      "name": "sword-01",
+      "displayName": "Sword 01"
+    },
+    {
+      "name": "table",
+      "displayName": "Table"
+    },
+    {
       "name": "table-01",
       "displayName": "Table 01"
+    },
+    {
+      "name": "table-02",
+      "displayName": "Table 02"
     },
     {
       "name": "table-columns-split",
@@ -3091,12 +3951,32 @@
       "displayName": "Task Done 01"
     },
     {
+      "name": "telescope-01",
+      "displayName": "Telescope 01"
+    },
+    {
+      "name": "tent",
+      "displayName": "Tent"
+    },
+    {
       "name": "tent-tree",
       "displayName": "Tent Tree"
     },
     {
+      "name": "terminal",
+      "displayName": "Terminal"
+    },
+    {
       "name": "test-tube",
       "displayName": "Test Tube"
+    },
+    {
+      "name": "test-tube-01",
+      "displayName": "Test Tube 01"
+    },
+    {
+      "name": "test-tube-02",
+      "displayName": "Test Tube 02"
     },
     {
       "name": "test-tube-diagonal",
@@ -3107,12 +3987,20 @@
       "displayName": "Test Tubes"
     },
     {
+      "name": "text",
+      "displayName": "Text"
+    },
+    {
       "name": "text-align-center",
       "displayName": "Text Align Center"
     },
     {
       "name": "text-bold",
       "displayName": "Text Bold"
+    },
+    {
+      "name": "text-check",
+      "displayName": "Text Check"
     },
     {
       "name": "text-italic",
@@ -3171,6 +4059,18 @@
       "displayName": "Timer 01"
     },
     {
+      "name": "toggle-off",
+      "displayName": "Toggle Off"
+    },
+    {
+      "name": "toggle-on",
+      "displayName": "Toggle On"
+    },
+    {
+      "name": "toilet-01",
+      "displayName": "Toilet 01"
+    },
+    {
       "name": "tool-case",
       "displayName": "Tool Case"
     },
@@ -3183,8 +4083,16 @@
       "displayName": "Tools"
     },
     {
+      "name": "tornado-01",
+      "displayName": "Tornado 01"
+    },
+    {
       "name": "torus",
       "displayName": "Torus"
+    },
+    {
+      "name": "touchpad-01",
+      "displayName": "Touchpad 01"
     },
     {
       "name": "touchpad-off",
@@ -3217,6 +4125,10 @@
     {
       "name": "translate",
       "displayName": "Translate"
+    },
+    {
+      "name": "tree-01",
+      "displayName": "Tree 01"
     },
     {
       "name": "tree-palm",
@@ -3267,6 +4179,14 @@
       "displayName": "Unavailable"
     },
     {
+      "name": "undo",
+      "displayName": "Undo"
+    },
+    {
+      "name": "undo-02",
+      "displayName": "Undo 02"
+    },
+    {
       "name": "unfold-more",
       "displayName": "Unfold More"
     },
@@ -3281,6 +4201,10 @@
     {
       "name": "unlink-01",
       "displayName": "Unlink 01"
+    },
+    {
+      "name": "unlink-02",
+      "displayName": "Unlink 02"
     },
     {
       "name": "upload-01",
@@ -3299,24 +4223,76 @@
       "displayName": "User"
     },
     {
+      "name": "user-02",
+      "displayName": "User 02"
+    },
+    {
       "name": "user-add-01",
       "displayName": "User Add 01"
+    },
+    {
+      "name": "user-check-01",
+      "displayName": "User Check 01"
+    },
+    {
+      "name": "user-check-02",
+      "displayName": "User Check 02"
     },
     {
       "name": "user-circle",
       "displayName": "User Circle"
     },
     {
+      "name": "user-circle-02",
+      "displayName": "User Circle 02"
+    },
+    {
+      "name": "user-edit-01",
+      "displayName": "User Edit 01"
+    },
+    {
       "name": "user-group",
       "displayName": "User Group"
+    },
+    {
+      "name": "user-lock-01",
+      "displayName": "User Lock 01"
     },
     {
       "name": "user-minus-01",
       "displayName": "User Minus 01"
     },
     {
+      "name": "user-minus-02",
+      "displayName": "User Minus 02"
+    },
+    {
       "name": "user-multiple",
       "displayName": "User Multiple"
+    },
+    {
+      "name": "user-multiple-02",
+      "displayName": "User Multiple 02"
+    },
+    {
+      "name": "user-remove-01",
+      "displayName": "User Remove 01"
+    },
+    {
+      "name": "user-search-01",
+      "displayName": "User Search 01"
+    },
+    {
+      "name": "user-settings-01",
+      "displayName": "User Settings 01"
+    },
+    {
+      "name": "user-square",
+      "displayName": "User Square"
+    },
+    {
+      "name": "user-star-01",
+      "displayName": "User Star 01"
     },
     {
       "name": "utility-pole",
@@ -3335,12 +4311,24 @@
       "displayName": "Vector Square"
     },
     {
+      "name": "vegetarian-food",
+      "displayName": "Vegetarian Food"
+    },
+    {
       "name": "venetian-mask",
       "displayName": "Venetian Mask"
     },
     {
+      "name": "vibrate",
+      "displayName": "Vibrate"
+    },
+    {
       "name": "video-01",
       "displayName": "Video 01"
+    },
+    {
+      "name": "video-02",
+      "displayName": "Video 02"
     },
     {
       "name": "video-off",
@@ -3411,8 +4399,20 @@
       "displayName": "Waving Hand 01"
     },
     {
+      "name": "webhook",
+      "displayName": "Webhook"
+    },
+    {
       "name": "webhook-off",
       "displayName": "Webhook Off"
+    },
+    {
+      "name": "weight",
+      "displayName": "Weight"
+    },
+    {
+      "name": "wheat",
+      "displayName": "Wheat"
     },
     {
       "name": "wheat-off",
@@ -3421,6 +4421,22 @@
     {
       "name": "wifi-01",
       "displayName": "Wifi 01"
+    },
+    {
+      "name": "wifi-full-signal",
+      "displayName": "Wifi Full Signal"
+    },
+    {
+      "name": "wifi-low-signal",
+      "displayName": "Wifi Low Signal"
+    },
+    {
+      "name": "wifi-no-signal",
+      "displayName": "Wifi No Signal"
+    },
+    {
+      "name": "wifi-off-01",
+      "displayName": "Wifi Off 01"
     },
     {
       "name": "wifi-pen",
@@ -3437,7 +4453,11 @@
     {
       "name": "yen",
       "displayName": "Yen"
+    },
+    {
+      "name": "zap",
+      "displayName": "Zap"
     }
   ],
-  "generatedAt": "2026-07-15T11:43:43.618Z"
+  "generatedAt": "2026-07-15T12:26:49.876Z"
 }
