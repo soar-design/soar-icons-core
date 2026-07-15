@@ -19,7 +19,7 @@ yarn add github:soar-design/soar-icons-core
 ```js
 import { getSvg } from "@soar-icons/core";
 
-const svg = await getSvg("home-01", "bulk");
+const svg = await getSvg("home-01", "solid");
 ```
 
 ### Import a specific SVG file
@@ -36,7 +36,7 @@ import homeSolid from "@soar-icons/core/icons/home-01/solid.svg";
 import { manifest, listIcons, listStyles } from "@soar-icons/core";
 
 listIcons();              // ["a-arrow-down", "abacus", "home-01", ...]
-listStyles();             // ["line", "solid", "bulk"]
+listStyles();             // ["line", "solid"]
 manifest.icons[0];
 ```
 
@@ -51,6 +51,5 @@ import manifest from "@soar-icons/core/manifest.json" with { type: "json" };
 Every SVG in this package follows the same rules:
 
 - 24×24 `viewBox`.
-- Paints with `currentColor` for the primary tone.
-- For `bulk`, the secondary tone uses `currentColor` + `opacity="0.4"`. One color in, two visible tones out.
+- Paints with `currentColor`.
 - No fixed `width`/`height` on the root `<svg>` — the consumer sets size.
