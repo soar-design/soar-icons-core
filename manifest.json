@@ -359,10 +359,6 @@
       "displayName": "Attachment 01"
     },
     {
-      "name": "award-01",
-      "displayName": "Award 01"
-    },
-    {
       "name": "axe",
       "displayName": "Axe"
     },
@@ -1161,10 +1157,6 @@
     {
       "name": "cloud-off",
       "displayName": "Cloud Off"
-    },
-    {
-      "name": "cloud-server",
-      "displayName": "Cloud Server"
     },
     {
       "name": "cloud-snow",
@@ -2023,10 +2015,6 @@
       "displayName": "Global"
     },
     {
-      "name": "globe",
-      "displayName": "Globe"
-    },
-    {
       "name": "globe-02",
       "displayName": "Globe 02"
     },
@@ -2807,14 +2795,6 @@
       "displayName": "Music Note 04"
     },
     {
-      "name": "navigation-01",
-      "displayName": "Navigation 01"
-    },
-    {
-      "name": "navigation-02",
-      "displayName": "Navigation 02"
-    },
-    {
       "name": "navigation-off",
       "displayName": "Navigation Off"
     },
@@ -3395,16 +3375,12 @@
       "displayName": "Sad 01"
     },
     {
-      "name": "safe",
-      "displayName": "Safe"
+      "name": "safe-box",
+      "displayName": "Safe Box"
     },
     {
       "name": "salad",
       "displayName": "Salad"
-    },
-    {
-      "name": "satellite",
-      "displayName": "Satellite"
     },
     {
       "name": "saudi-riyal",
@@ -3505,10 +3481,6 @@
     {
       "name": "shapes",
       "displayName": "Shapes"
-    },
-    {
-      "name": "share-01",
-      "displayName": "Share 01"
     },
     {
       "name": "share-02",
@@ -3905,10 +3877,6 @@
     {
       "name": "table-01",
       "displayName": "Table 01"
-    },
-    {
-      "name": "table-02",
-      "displayName": "Table 02"
     },
     {
       "name": "table-columns-split",
@@ -4459,5 +4427,5 @@
       "displayName": "Zap"
     }
   ],
-  "generatedAt": "2026-07-15T12:26:49.876Z"
+  "generatedAt": "2026-07-16T09:46:23.841Z"
 }
